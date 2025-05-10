@@ -12,6 +12,9 @@
 
 5. Run `main.py` Use python code or Download full version [image-ocr-to-srt-gemini](https://github.com/MrGamesKingPro/image-ocr-to-srt-gemini/releases/tag/image-ocr-to-srt-gemini)
 
+![ocr](https://github.com/user-attachments/assets/ff68aa80-94c8-4e34-aecf-36b57b367092)
+
+
 *   **Input Image Folder**
     *   Click "Browse..." to select the folder containing your timestamped images.
     *   Default: `images` (a folder named 'images' in the same directory as the script).
